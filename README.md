@@ -1,7 +1,7 @@
 # 🌸 KouriChat - 在虚拟与现实交织处，给予永恒的温柔羁绊
 
-#### 小魔改了下 移除了人设，让DeepSeek原汁原味加入了远程端ollama
-视频演示：[B站](https://www.bilibili.com/video/BV1ByPYedE3A)
+## 小魔改了下 移除了人设，让DeepSeek原汁原味加入了远程端ollama
+## 视频演示：[B站](https://www.bilibili.com/video/BV1ByPYedE3A)
 
 #### 本仓库为​**开发分支**​，包含新的​**实验性特性**​。若非开发人员**请勿**直接使用此分支，​**否则您的问题可能无法得到答复**​。
 
